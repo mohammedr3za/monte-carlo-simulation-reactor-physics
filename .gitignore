@@ -1,0 +1,14 @@
+# created by running the notebooks and scripts
+results/
+kaeri_*.txt
+*.part
+xs_*_Q*.csv
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store
